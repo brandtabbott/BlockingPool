@@ -1,4 +1,4 @@
-package com.ecovate.provision.l3;
+package com.github.brandtabbott;
 
 /* Caught exception for provisioning */
 public class BlockingPoolException extends RuntimeException {
